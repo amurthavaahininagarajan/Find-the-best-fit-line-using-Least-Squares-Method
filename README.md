@@ -26,7 +26,9 @@ RegisterNumber:
 ```
 
 ## Output:
-![best fit line](sam.png)
+![ml1](https://user-images.githubusercontent.com/118679102/228844963-f0eb013e-b3a1-4f33-8c1a-2784d97f4f13.jpeg)
+
+
 
 
 ## Result:
